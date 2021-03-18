@@ -1,0 +1,50 @@
+ECE 4680/6680 (Embedded Microprocessor)
+Lab #3: LZW Compression
+In this lab the student is introduced to digital data compression.
+At the course website there is an image called golfcore.ppm. You are to write C-code to compress and decompress this file. Compressed data must be stored to a file in a manner that facilitates decompression.
+The programs may be written under linux using gcc or under Windows using Visual C. There does not need to be any graphical user interface, but the user should be able to select the filename.
+The code to be implemented is Lempel-Ziv-Welch (LZW). There is no difference in the implementation for ECE4680 and ECE 6680 students.
+Besides the image, the codec should be tested on a text file (student’s choice) and binary executable (student’s choice).
+This lab is due by the due date given at the course website. Grading will be determined via demonstration. The lab TA will be available for demonstrations in the lab (Riggs 304) at the times posted at the course website. If you need to arrange an alternate demonstration time, work it out with the TA.
+You must also submit your C-code (as an attachment) to ece_assign@clemson.edu. Use as subject header ECE4680-1,#3 or ECE6680-1,#3. This email is due by midnight of the due date.
+Work for the LZW codec must be completed by each individual student. If it is determined that a piece of work has been copied, all parties involved will receive zero credit. If it happens twice, the offending parties will fail the course. Please protect your work!
+ECE 4680/6680 (Embedded Microprocessor)
+Lab #3: LZW Compression
+In this lab the student is introduced to digital data compression.
+At the course website there is an image called golfcore.ppm. You are to write C-code to compress and decompress this file. Compressed data must be stored to a file in a manner that facilitates decompression.
+The programs may be written under linux using gcc or under Windows using Visual C. There does not need to be any graphical user interface, but the user should be able to select the filename.
+The code to be implemented is Lempel-Ziv-Welch (LZW). There is no difference in the implementation for ECE4680 and ECE 6680 students.
+Besides the image, the codec should be tested on a text file (student’s choice) and binary executable (student’s choice).
+This lab is due by the due date given at the course website. Grading will be determined via demonstration. The lab TA will be available for demonstrations in the lab (Riggs 304) at the times posted at the course website. If you need to arrange an alternate demonstration time, work it out with the TA.
+You must also submit your C-code (as an attachment) to ece_assign@clemson.edu. Use as subject header ECE4680-1,#3 or ECE6680-1,#3. This email is due by midnight of the due date.
+Work for the LZW codec must be completed by each individual student. If it is determined that a piece of work has been copied, all parties involved will receive zero credit. If it happens twice, the offending parties will fail the course. Please protect your work!
+ECE 4680/6680 (Embedded Microprocessor)
+Lab #3: LZW Compression
+In this lab the student is introduced to digital data compression.
+At the course website there is an image called golfcore.ppm. You are to write C-code to compress and decompress this file. Compressed data must be stored to a file in a manner that facilitates decompression.
+The programs may be written under linux using gcc or under Windows using Visual C. There does not need to be any graphical user interface, but the user should be able to select the filename.
+The code to be implemented is Lempel-Ziv-Welch (LZW). There is no difference in the implementation for ECE4680 and ECE 6680 students.
+Besides the image, the codec should be tested on a text file (student’s choice) and binary executable (student’s choice).
+This lab is due by the due date given at the course website. Grading will be determined via demonstration. The lab TA will be available for demonstrations in the lab (Riggs 304) at the times posted at the course website. If you need to arrange an alternate demonstration time, work it out with the TA.
+You must also submit your C-code (as an attachment) to ece_assign@clemson.edu. Use as subject header ECE4680-1,#3 or ECE6680-1,#3. This email is due by midnight of the due date.
+Work for the LZW codec must be completed by each individual student. If it is determined that a piece of work has been copied, all parties involved will receive zero credit. If it happens twice, the offending parties will fail the course. Please protect your work!
+ECE 4680/6680 (Embedded Microprocessor)
+Lab #3: LZW Compression
+In this lab the student is introduced to digital data compression.
+At the course website there is an image called golfcore.ppm. You are to write C-code to compress and decompress this file. Compressed data must be stored to a file in a manner that facilitates decompression.
+The programs may be written under linux using gcc or under Windows using Visual C. There does not need to be any graphical user interface, but the user should be able to select the filename.
+The code to be implemented is Lempel-Ziv-Welch (LZW). There is no difference in the implementation for ECE4680 and ECE 6680 students.
+Besides the image, the codec should be tested on a text file (student’s choice) and binary executable (student’s choice).
+This lab is due by the due date given at the course website. Grading will be determined via demonstration. The lab TA will be available for demonstrations in the lab (Riggs 304) at the times posted at the course website. If you need to arrange an alternate demonstration time, work it out with the TA.
+You must also submit your C-code (as an attachment) to ece_assign@clemson.edu. Use as subject header ECE4680-1,#3 or ECE6680-1,#3. This email is due by midnight of the due date.
+Work for the LZW codec must be completed by each individual student. If it is determined that a piece of work has been copied, all parties involved will receive zero credit. If it happens twice, the offending parties will fail the course. Please protect your work!
+ECE 4680/6680 (Embedded Microprocessor)
+Lab #3: LZW Compression
+In this lab the student is introduced to digital data compression.
+At the course website there is an image called golfcore.ppm. You are to write C-code to compress and decompress this file. Compressed data must be stored to a file in a manner that facilitates decompression.
+The programs may be written under linux using gcc or under Windows using Visual C. There does not need to be any graphical user interface, but the user should be able to select the filename.
+The code to be implemented is Lempel-Ziv-Welch (LZW). There is no difference in the implementation for ECE4680 and ECE 6680 students.
+Besides the image, the codec should be tested on a text file (student’s choice) and binary executable (student’s choice).
+This lab is due by the due date given at the course website. Grading will be determined via demonstration. The lab TA will be available for demonstrations in the lab (Riggs 304) at the times posted at the course website. If you need to arrange an alternate demonstration time, work it out with the TA.
+You must also submit your C-code (as an attachment) to ece_assign@clemson.edu. Use as subject header ECE4680-1,#3 or ECE6680-1,#3. This email is due by midnight of the due date.
+Work for the LZW codec must be completed by each individual student. If it is determined that a piece of work has been copied, all parties involved will receive zero credit. If it happens twice, the offending parties will fail the course. Please protect your work!
